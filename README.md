@@ -1,8 +1,8 @@
 # 一、项目简介
 
-本项目是一站式深度学习在线百科，内容涵盖[**零基础入门深度学习**](https://aistudio.baidu.com/aistudio/course/introduce/1297)、**产业实践深度学习**、**特色课程（开发中）**；[**深度学习百问**](https://paddlepedia.readthedocs.io/en/latest/index.html)、**产业实践(开发中)**等等。从理论到实践，从科研到产业应用，各类学习材料一应俱全，旨在帮助开发者高效地学习和掌握深度学习知识，快速成为AI跨界人才。
+本项目是一站式深度学习在线百科，内容涵盖[**零基础入门深度学习**](https://aistudio.baidu.com/aistudio/course/introduce/1297)、**产业实践深度学习**、**特色课程**；[**深度学习百问**](https://paddlepedia.readthedocs.io/en/latest/index.html)、**产业实践(开发中)** 等等。从理论到实践，从科研到产业应用，各类学习材料一应俱全，旨在帮助开发者高效地学习和掌握深度学习知识，快速成为AI跨界人才。
 
-<center><img src="./docs/images/cover/repo.png" width=70%></center><br></br>
+<center><img src="./docs/images/cover/repo.png" width=70%></center>
 
 * **内容全面**：无论您是深度学习初学者，还是资深用户，都可以在本项目中快速获取到需要的学习材料。
 
@@ -12,9 +12,18 @@
 
 * **前沿分享** ：定期分享顶会最新论文解读和代码复现，开发者可以实时掌握最新的深度学习算法。
 
-# 二、 零基础实践深度学习
+  
 
+# <span id='0'>快速跳转：</span>
 
+| 零基础入门深度学习​[:arrow_heading_down:](#1) | 产业实践深度学习[:arrow_heading_down:](#5)   |
+| -------------------------------------------- | -------------------------------------------- |
+| 特色系列课程[:arrow_heading_down:](#3)       | 经典深度学习案例集[:arrow_heading_down:](#4) |
+| 深度学习百问[:arrow_heading_down:](#2)       | 面试宝典[:arrow_heading_down:](#6)           |
+
+### **如果本项目对您有帮忙，欢迎点击页面右上方star，方便访问**
+
+# <span id = '1'>二、零基础实践深度学习</span>
 
   - **AI Studio在线课程：[《零基础实践深度学习》](https://aistudio.baidu.com/aistudio/course/introduce/1297
     )**：理论和代码结合、实践与平台结合，包含20小时视频课程，由百度杰出架构师、飞桨产品负责人和资深研发人员共同打造。
@@ -59,21 +68,46 @@
 
     附：手写数字识别案例入门深度学习项目
 
-    | 项目                                 | 链接                                                         |
-    | ------------------------------------ | ------------------------------------------------------------ |
-    | 使用飞桨完成手写数字识别模型         | [https://aistudio.baidu.com/aistudio/projectdetail/2057038](https://aistudio.baidu.com/aistudio/projectdetail/2057038) |
-    | 通过极简方案快速构建手写数字识别模型 | [https://aistudio.baidu.com/aistudio/projectdetail/2056976](https://aistudio.baidu.com/aistudio/projectdetail/2056976) |
-    | 手写数字识别之数据处理               | [https://aistudio.baidu.com/aistudio/projectdetail/2056979](https://aistudio.baidu.com/aistudio/projectdetail/2056979) |
-    | 手写数字识别之网络结构               | [https://aistudio.baidu.com/aistudio/projectdetail/2057051](https://aistudio.baidu.com/aistudio/projectdetail/2057051) |
-    | 手写数字识别之损失函数               | [https://aistudio.baidu.com/aistudio/projectdetail/1910072](https://aistudio.baidu.com/aistudio/projectdetail/1910072) |
-    | 手写数字识别之优化算法               | [https://aistudio.baidu.com/aistudio/projectdetail/2057060](https://aistudio.baidu.com/aistudio/projectdetail/2057060) |
-    | 手写数字识别之资源配置               | [https://aistudio.baidu.com/aistudio/projectdetail/2057061](https://aistudio.baidu.com/aistudio/projectdetail/2057061) |
-    | 手写数字识别之训练调试与优化         | [https://aistudio.baidu.com/aistudio/projectdetail/2057066](https://aistudio.baidu.com/aistudio/projectdetail/2057066) |
-    | 手写数字识别之恢复训练               | [https://aistudio.baidu.com/aistudio/projectdetail/2057069](https://aistudio.baidu.com/aistudio/projectdetail/2057069) |
-    | 手写数字识别之动转静部署             | [https://aistudio.baidu.com/aistudio/projectdetail/2057074](https://aistudio.baidu.com/aistudio/projectdetail/2057074) |
+    <table>
+        <tr>
+            <td>项目</td> 
+            <td>链接</td> 
+        </tr>
+        <tr>
+            <td >使用飞桨完成手写数字识别模型</td>
+            <td rowspan="10">https://aistudio.baidu.com/aistudio/education/group/info/1297</td>
+        </tr>
+        <tr>
+            <td >通过极简方案快速构建手写数字识别模型</td>
+        </tr>
+        <tr>
+            <td >手写数字识别之数据处理</td>
+        </tr>
+        <tr>
+            <td >手写数字识别之网络结构</td>
+        </tr>
+        <tr>
+            <td >手写数字识别之损失函数</td>
+        </tr>
+        <tr>
+            <td >手写数字识别之优化算法</td>
+        </tr>
+        <tr>
+            <td >手写数字识别之资源配置</td>
+        </tr>
+        <tr>
+            <td >手写数字识别之训练调试与优化</td>
+        </tr>
+        <tr>
+            <td >手写数字识别之恢复训练</td>
+        </tr>
+        <tr>
+            <td >手写数字识别之动转静部署</td>
+        </tr>
+    </table>
 
     **5.DAY3-眼疾识别案例实践计算机视觉**
-
+    
     | 资料       | 链接                                                         |
     | ---------- | ------------------------------------------------------------ |
     | 视频（上） | [https://aistudio.baidu.com/aistudio/education/lessonvideo/1452200](https://aistudio.baidu.com/aistudio/education/lessonvideo/1452200) |
@@ -81,11 +115,20 @@
     | 课件       | [https://aistudio.baidu.com/aistudio/education/preview/1452198](https://aistudio.baidu.com/aistudio/education/preview/1452198) |
 
     附：眼疾识别案例项目
-
-    | 项目             | 链接                                                         |
-    | ---------------- | ------------------------------------------------------------ |
-    | 卷积神经网络基础 | [https://aistudio.baidu.com/aistudio/projectdetail/2057136](https://aistudio.baidu.com/aistudio/projectdetail/2057136) |
-    | 图像分类         | [https://aistudio.baidu.com/aistudio/projectdetail/2057141](https://aistudio.baidu.com/aistudio/projectdetail/2057141) |
+    
+    <table>
+        <tr>
+            <td>项目</td> 
+            <td>链接</td> 
+        </tr>
+        <tr>
+            <td >卷积神经网络基础</td>
+            <td rowspan="2">https://aistudio.baidu.com/aistudio/education/group/info/1297</td>
+        </tr>
+        <tr>
+            <td >图像分类</td>
+        </tr>
+    </table>
 
     **6.DAY4-词向量训练和情感分析任务**
 
@@ -94,42 +137,70 @@
     | 视频（上） | [https://aistudio.baidu.com/aistudio/education/lessonvideo/1452210](https://aistudio.baidu.com/aistudio/education/lessonvideo/1452210) |
     | 视频（下） | [https://aistudio.baidu.com/aistudio/education/lessonvideo/1452213](https://aistudio.baidu.com/aistudio/education/lessonvideo/1452213) |
     | 课件       | [https://aistudio.baidu.com/aistudio/education/preview/1452208](https://aistudio.baidu.com/aistudio/education/preview/1452208) |
-
+    
     附：词向量训练和情感分析任务项目
-
-    | 项目                 | 链接                                                         |
-    | -------------------- | ------------------------------------------------------------ |
-    | 自然语言处理综述     | [https://aistudio.baidu.com/aistudio/projectdetail/2057099](https://aistudio.baidu.com/aistudio/projectdetail/2057099) |
-    | 词向量Word Embedding | [https://aistudio.baidu.com/aistudio/projectdetail/2057101](https://aistudio.baidu.com/aistudio/projectdetail/2057101) |
-    | 文本情感倾向性分析   | [https://aistudio.baidu.com/aistudio/projectdetail/2057105](https://aistudio.baidu.com/aistudio/projectdetail/2057105) |
-
+    
+    <table>
+        <tr>
+            <td>项目</td> 
+            <td>链接</td> 
+        </tr>
+        <tr>
+            <td >自然语言处理综述</td>
+            <td rowspan="3">https://aistudio.baidu.com/aistudio/education/group/info/1297</td>
+        </tr>
+        <tr>
+            <td >词向量Word Embedding</td>
+        </tr>
+        <tr>
+            <td >文本情感倾向性分析</td>
+        </tr>
+    </table>
+    
     **7.DAY5-基于DSSM的电影推荐案例**
-
+    
     | 资料       | 链接                                                         |
     | ---------- | ------------------------------------------------------------ |
     | 视频（上） | [https://aistudio.baidu.com/aistudio/education/lessonvideo/1452219](https://aistudio.baidu.com/aistudio/education/lessonvideo/1452219) |
     | 视频（下） | [https://aistudio.baidu.com/aistudio/education/lessonvideo/1452220](https://aistudio.baidu.com/aistudio/education/lessonvideo/1452220) |
     | 课件       | [https://aistudio.baidu.com/aistudio/education/preview/1452217](https://aistudio.baidu.com/aistudio/education/preview/1452217) |
-
+    
     附：DSSM的电影推荐案例项目
-
-    | 项目               | 链接                                                         |
-    | ------------------ | ------------------------------------------------------------ |
-    | 推荐系统介绍       | [https://aistudio.baidu.com/aistudio/projectdetail/2057116](https://aistudio.baidu.com/aistudio/projectdetail/2057116) |
-    | 数据处理与读取     | [https://aistudio.baidu.com/aistudio/projectdetail/2057118](https://aistudio.baidu.com/aistudio/projectdetail/2057118) |
-    | 电影推荐模型设计   | [https://aistudio.baidu.com/aistudio/projectdetail/2057121](https://aistudio.baidu.com/aistudio/projectdetail/2057121) |
-    | 模型训练与特征保存 | [https://aistudio.baidu.com/aistudio/projectdetail/2057122](https://aistudio.baidu.com/aistudio/projectdetail/2057122) |
-    | 电影推荐           | [https://aistudio.baidu.com/aistudio/projectdetail/2057128](https://aistudio.baidu.com/aistudio/projectdetail/2057128) |
-
+    
+    <table>
+        <tr>
+            <td>项目</td> 
+            <td>链接</td> 
+        </tr>
+        <tr>
+            <td >推荐系统介绍</td>
+            <td rowspan="5">https://aistudio.baidu.com/aistudio/education/group/info/1297</td>
+        </tr>
+        <tr>
+            <td >数据处理与读取</td>
+        </tr>
+        <tr>
+            <td >电影推荐模型设计</td>
+        </tr>
+        <tr>
+            <td >模型训练与特征保存</td>
+        </tr>
+        <tr>
+            <td >电影推荐</td>
+        </tr>
+    </table>
+    
     **8.DAY6-模型优化经验与飞桨深入解读**
-
+    
     | 资料       | 链接                                                         |
     | ---------- | ------------------------------------------------------------ |
     | 视频（上） | [https://aistudio.baidu.com/aistudio/education/lessonvideo/1452226](https://aistudio.baidu.com/aistudio/education/lessonvideo/1452226) |
     | 视频（下） | [https://aistudio.baidu.com/aistudio/education/lessonvideo/1452227](https://aistudio.baidu.com/aistudio/education/lessonvideo/1452227) |
     | 课件       | [https://aistudio.baidu.com/aistudio/education/preview/1452224](https://aistudio.baidu.com/aistudio/education/preview/1452224) |
 
-# 三、 深度学习百问
+[返回快速跳转:arrow_heading_up:](#0) 
+
+# <span id ='2'>三、 深度学习百问</span>
 
 深度学习百问包含深度学习基础篇、深度学习进阶篇、深度学习应用篇、强化学习篇以及面试宝典，详细信息请参阅[Paddle知识点文档平台](https://paddlepedia.readthedocs.io/en/latest/index.html)。
 
@@ -180,6 +251,7 @@
      2. [图像分类](https://paddlepedia.readthedocs.io/en/latest/tutorials/computer_vision/classification/index.html)（包括LeNet、AlexNet、VGG、GoogleNet、DarkNet、ResNet、ViT等7个知识点）  
      3. [目标检测](https://paddlepedia.readthedocs.io/en/latest/tutorials/computer_vision/object_detection/index.html)（包括目标检测综述、边界框、锚框、交并比、NMS等5个知识点）  
      4. [OCR](https://paddlepedia.readthedocs.io/en/latest/tutorials/computer_vision/OCR/index.html)（包括OCR综述、OCR常用检测方法(CTPN、EAST、DBNet)、OCR常用识别方法(CRNN)等5个知识点）
+     5. [视频分类](https://paddlepedia.readthedocs.io/en/latest/tutorials/computer_vision/video_understanding/index.html)（包括TSM、TimeSformer详解）
   2. [自然语言处理](https://paddlepedia.readthedocs.io/en/latest/tutorials/natural_language_processing/index.html)  
      1. [命名实体识别](https://paddlepedia.readthedocs.io/en/latest/tutorials/natural_language_processing/ner/index.html) (包括bilstm+CRF架构剖析、CRF原理等8个知识点)  
   3. [推荐系统](https://paddlepedia.readthedocs.io/en/latest/tutorials/recommendation_system/index.html)  
@@ -203,7 +275,8 @@
      7. [Q-Learning](https://paddlepedia.readthedocs.io/en/latest/tutorials/reinforcement_learning/Q-learning.html)（包括Q-Learning的公式、优缺点等2个知识点）  
      8. [DQN](https://paddlepedia.readthedocs.io/en/latest/tutorials/reinforcement_learning/DQN.html#)（包括DQN网络概述及其创新点和算法流程2个知识点）  
 
-* **面试宝典**  
+* <span id ='6'>**面试宝典**</span>  
+  
   1.  深度学习基础
     * [为什么归一化能够提高求解最优解的速度？](https://paddlepedia.readthedocs.io/en/latest/tutorials/deep_learning/model_tuning/normalization/basic_normalization.html#id4)
     * [为什么要归一化？](https://paddlepedia.readthedocs.io/en/latest/tutorials/deep_learning/model_tuning/normalization/basic_normalization.html)
@@ -223,13 +296,13 @@
     * [交叉熵为什么可以作为分类任务的损失函数？](https://paddlepedia.readthedocs.io/en/latest/tutorials/deep_learning/loss_functions/CE_Loss.html)
     * [CTC方法主要使用了什么方式来解决了什么问题？](https://paddlepedia.readthedocs.io/en/latest/tutorials/deep_learning/loss_functions/CTC.html#)
     * [机器学习指标精确率，召回率，f1指标是怎样计算的？](https://paddlepedia.readthedocs.io/en/latest/tutorials/deep_learning/metrics/evaluation_metric.html)
-
+  
   2. 卷积模型
     * [相较于全连接网络，卷积在图像处理方面有什么样的优势？](https://paddlepedia.readthedocs.io/en/latest/tutorials/CNN/convolution_operator/Convolution.html#id1)
     * [卷积中感受野的计算方式？](https://paddlepedia.readthedocs.io/en/latest/tutorials/CNN/convolution_operator/Convolution.html#receptive-field)
     * [1*1卷积的作用是什么？](https://paddlepedia.readthedocs.io/en/latest/tutorials/CNN/convolution_operator/1%2A1_Convolution.html)
     * [深度可分离卷积的计算方式以及意义是什么？](https://paddlepedia.readthedocs.io/en/latest/tutorials/CNN/convolution_operator/Separable_Convolution.html#id4)
-
+  
   3. 预训练模型
     * [BPE生成词汇表的算法步骤是什么？](https://paddlepedia.readthedocs.io/en/latest/tutorials/pretrain_model/subword.html#byte-pair-encoding-bpe)
     * [Multi-Head Attention的时间复杂度是多少？](https://paddlepedia.readthedocs.io/en/latest/tutorials/pretrain_model/transformer.html#multi-head-attention)
@@ -242,7 +315,7 @@
     * [请列举一下BERT的优缺点](https://paddlepedia.readthedocs.io/en/latest/tutorials/pretrain_model/bert.html#id13)
     * [ALBERT相对于BERT做了哪些改进？](https://paddlepedia.readthedocs.io/en/latest/tutorials/pretrain_model/ALBERT.html#id2)
     * [NSP和SOP的区别是什么？](https://paddlepedia.readthedocs.io/en/latest/tutorials/pretrain_model/ALBERT.html#sentence-order-prediction)
-
+  
   4. 对抗神经网络
     * [GAN是怎么训练的？](https://paddlepedia.readthedocs.io/en/latest/tutorials/generative_adversarial_network/basic_concept/GAN%20train.html)
     * [GAN生成器输入为什么是随机噪声？](https://paddlepedia.readthedocs.io/en/latest/tutorials/generative_adversarial_network/basic_concept/Input%20noise.html#gan)
@@ -252,7 +325,7 @@
     * [GAN模式坍塌解决办法](https://paddlepedia.readthedocs.io/en/latest/tutorials/generative_adversarial_network/basic_concept/Collapse.html)
     * [GAN模型训练不稳定的原因](https://paddlepedia.readthedocs.io/en/latest/tutorials/generative_adversarial_network/basic_concept/Unstable%20training.html#)
     * [GAN模式训练不稳定解决办法 or 训练GAN的经验/技巧](https://paddlepedia.readthedocs.io/en/latest/tutorials/generative_adversarial_network/basic_concept/Unstable%20training.html#)
-
+  
   5. 计算机视觉
     * [ResNet中Residual block解决了什么问题？](https://paddlepedia.readthedocs.io/en/latest/tutorials/computer_vision/classification/ResNet.html)
     * [使用Cutout进行数据增广有什么样的优势？](https://paddlepedia.readthedocs.io/en/latest/tutorials/computer_vision/image_augmentation/ImageAugment.html#cutout)
@@ -267,7 +340,7 @@
     * [介绍一下CTC原理](https://paddlepedia.readthedocs.io/en/latest/tutorials/deep_learning/loss_functions/CTC.html)
     * [OCR常用的评估指标](https://paddlepedia.readthedocs.io/en/latest/tutorials/computer_vision/OCR/OCR.html#id7)
     * [OCR目前还存在哪些挑战/难点？](https://paddlepedia.readthedocs.io/en/latest/tutorials/computer_vision/OCR/OCR.html#id9)
-
+  
   6. 自然语言处理
     * [RNN一般有哪几种常用建模方式?](https://paddlepedia.readthedocs.io/en/latest/tutorials/sequence_model/rnn.html#span-id-4-rnn-span)
     * [LSTM是如何改进RNN，保持长期依赖的?](https://paddlepedia.readthedocs.io/en/latest/tutorials/sequence_model/lstm.html#span-id-1-lstm-span)
@@ -286,44 +359,62 @@
     * [BERT的结构和原理是什么?](https://paddlepedia.readthedocs.io/en/latest/tutorials/pretrain_model/bert.html#id1)
     * [BERT使用了什么预训练任务?](https://paddlepedia.readthedocs.io/en/latest/tutorials/pretrain_model/bert.html#id11)
     * [说一下self-attention的原理?](https://paddlepedia.readthedocs.io/en/latest/tutorials/pretrain_model/transformer.html#self-attention)
-
+  
   7. 推荐系统
     * [DSSM模型的原理是什么？](https://paddlepedia.readthedocs.io/en/latest/tutorials/recommendation_system/dssm.html)
     * [DSSM怎样解决OOV问题的？](https://paddlepedia.readthedocs.io/en/latest/tutorials/recommendation_system/dssm.html#id2)
     * [推荐系统的PV和UV代表什么？](https://paddlepedia.readthedocs.io/en/latest/tutorials/recommendation_system/evaluation_metric.html#id2)
     * [协同过滤推荐和基于内容的推荐的区别是什么？](https://paddlepedia.readthedocs.io/en/latest/tutorials/recommendation_system/evaluation_metric.html#id2)
+  
+  [返回快速跳转:arrow_heading_up:](#0) 
 
-# 四、特色课- Transformer系列（开发中）
+# <span id ='3'> 四、特色课- Transformer系列</span>
 
 | 章节名称                      | notebook链接                                                 | Python实现                                                   | 课程简介                                                     |
 | ----------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| transformer在图像分类中的应用 | [notebook链接](https://aistudio.baidu.com/aistudio/projectdetail/2154618) | [Python实现](./transformer_courses/Application_of_transformer_in_image_classification) | 本章节将为大家详细介绍 Transformer 在 CV 领域中的两个经典算法：ViT 以及 DeiT。带领大家一起学习Transformer 结构在图像分类领域的具体应用。 |
-|经典的预训练语言模型   |  [notebook链接](https://aistudio.baidu.com/aistudio/projectdetail/2110336)  |[Python实现](./transformer_courses/Transformer_Machine_Translation)|本章节将为大家详细介绍NLP领域 Transformer。Transformer的前世今生，包括ELMo，GPT，Transformer，BERT等经典模型，还会介绍Transformer在机器翻译里面的应用                                                              |
-| 预训练模型的瘦身策略 – – 高效结构 |  [notebook链接](https://aistudio.baidu.com/aistudio/projectdetail/2138857)|  [Python实现](./Transformer_Punctuation_Restoration) | 本章节将为大家详细介绍NLP领域，基于Transformer模型的瘦身技巧。包括 Electra，AlBERT 以及 performer。还会介绍代码实现案例：基于Electra的语音识别后处理中文标点符号预测   |
+|经典的预训练语言模型   |  [notebook链接](https://aistudio.baidu.com/aistudio/projectdetail/2110336)  |[Python实现](./transformer_courses/Transformer_Machine_Translation)|本章节将为大家详细介绍NLP领域 Transformer。Transformer的前世今生，包括ELMo，GPT，Transformer，BERT等经典模型，还会介绍Transformer在机器翻译里面的应用|
+|经典的预训练语言模型   |  [notebook链接](https://aistudio.baidu.com/aistudio/projectdetail/2110336)  |[Python实现](./transformer_courses/Transformer_Machine_Translation)|本章节将为大家详细介绍NLP领域 Transformer。Transformer的前世今生，包括ELMo，GPT，Transformer，BERT等经典模型，还会介绍Transformer在机器翻译里面的应用|
+|预训练模型在自然语言理解方面的改进| [notebook链接](https://aistudio.baidu.com/aistudio/projectdetail/2166195) | [Python实现](./transformer_courses/reading_comprehension_based_on_ernie)|ERNIE， RoBERTa， KBERT，清华ERNIE等，在广度上去分析经典预训练模型的一些改进。|
+|预训练模型在长序列建模方面的改进| [notebook链接](https://aistudio.baidu.com/aistudio/projectdetail/2166197) |[Python实现](./transformer_courses/sentiment_analysis_based_on_xlnet)|Transformer-xl， xlnet， longformer等，分析BERT和transformer的长度局限，并讨论这些方法的改进点。|
+| BERT蒸馏 |  [notebook链接](https://aistudio.baidu.com/aistudio/projectdetail/2177549)|  [Python实现](./transformer_courses/BERT_distillation) | 本章节为大家详细介绍了针对BERT模型的蒸馏算法，包括：Patient-KD、DistilBERT、TinyBERT、DynaBERT等模型，同时以代码的形式为大家展现了如何使用DynaBERT的训练策略对TinyBERT进行蒸馏。   |
+| 预训练模型的瘦身策略 – – 高效结构 |  [notebook链接](https://aistudio.baidu.com/aistudio/projectdetail/2138857)|  [Python实现](./transformer_courses/Transformer_Punctuation_Restoration) | 本章节将为大家>详细介绍NLP领域，基于Transformer模型的瘦身技巧。包括 Electra，AlBERT 以及 performer。还会介绍代码实现案例：基于Electra的语音识别后处理中文标点符号预测   |
+| transformer在图像分类中的应用（上） | [notebook链接](https://aistudio.baidu.com/aistudio/projectdetail/2154618) | [Python实现](./transformer_courses/Application_of_transformer_in_image_classification) | 本章节将为大家详细介绍 Transformer 在 CV 领域中的两个经典算法：ViT 以及 DeiT。带领大家一起学习Transformer 结构在图像分类领域的具体应用。 |
+| transformer在图像分类中的应用（下） | [notebook链接](https://aistudio.baidu.com/aistudio/projectdetail/2271352) | [Python实现](./transformer_courses/Application_of_transformer_in_image_classification_Swin) | 本章节将为大家详细介绍 Transformer 在 CV 领域中的经典算法：Swin Transformer。带领大家一起学习Transformer 结构在图像分类领域的具体应用。 |
 |                               |                                                              |                                                              |                                                              |
 
-# 五、 经典深度学习案例集（开发中）
+[返回快速跳转:arrow_heading_up:](#0) 
 
-# 六、 飞桨产业实践
+# <span id ='4'>五、 经典深度学习案例集（开发中）
 
-| 领域         | 产业案例                   | 链接                                                         |
+# </span>
+
+[返回快速跳转:arrow_heading_up:](#0) 
+
+# <span id ='5'>六、 飞桨产业实践</span>
+
+| 领域         | 产业案例                   | 介绍                                                        |
 | ------------ | -------------------------- | ------------------------------------------------------------ |
-| **智能工业** | 厂区传统仪表统计监测       | https://paddlex.readthedocs.io/zh_CN/develop/examples/meter_reader.html |
-| **智能工业** | 新能源汽车锂电池隔膜质检   | https://www.paddlepaddle.org.cn/support/news?action=detail&id=2104 |
-| **智能工业** | 天池铝材表面缺陷检测       | https://paddlex.readthedocs.io/zh_CN/develop/examples/industrial_quality_inspection/README.html |
-| **智能工业** | 安全帽检测                 | https://github.com/PaddleCV-FAQ/PaddleDetection-FAQ/blob/main/Lite%E9%83%A8%E7%BD%B2/yolov3_for_raspi.md |
-| **智慧城市** | 高尔夫球场遥感监测         | https://www.paddlepaddle.org.cn/support/news?action=detail&id=2103 |
-| **智慧城市** | 积雪语义分割               | https://paddlex.readthedocs.io/zh_CN/develop/examples/multi-channel_remote_sensing/README.html |
-| **智慧城市** | 戴口罩的人脸识别           | https://aistudio.baidu.com/aistudio/projectdetail/267322?channelType=0&channel=0 |
-| **智慧交通** | 车道线分割和红绿灯安全检测 | https://github.com/PaddlePaddle/PaddleDetection/blob/release/2.1/configs/vehicle/README_cn.md |
-| **智慧农林** | 耕地地块识别               | https://mp.weixin.qq.com/s/JlDVmYlhN7sF0hpRlncDNw            |
-| **智慧农林** | AI识虫                     | https://aistudio.baidu.com/aistudio/projectdetail/439888     |
-| **智慧医疗** | 医学常见中草药分类         | https://aistudio.baidu.com/aistudio/projectdetail/1434738?channelType=0&channel=0 |
-| **智慧医疗** | 眼疾识别                   | https://www.paddlepaddle.org.cn/tutorials/projectdetail/1630501 |
-| **其他**     | 人摔倒检测                 |                                                              |
-| **其他**     | 足球比赛动作定位           | https://github.com/PaddlePaddle/PaddleVideo/tree/application/FootballAction |
-| **其他**     | 基于强化学习的飞行器仿真   |  https://github.com/PaddlePaddle/PARL/tree/develop/examples/tutorials/homework/lesson5/ddpg_quadrotor |
+| **智能工业** | [厂区传统仪表统计监测](https://paddlex.readthedocs.io/zh_CN/develop/examples/meter_reader.html)       |  -|
+| **智能工业** | [新能源汽车锂电池隔膜质检](https://www.paddlepaddle.org.cn/support/news?action=detail&id=2104)   | - |
+| **智能工业** | [天池铝材表面缺陷检测](https://paddlex.readthedocs.io/zh_CN/develop/examples/industrial_quality_inspection/README.html)       | - |
+| **智能工业** | [安全帽检测](https://github.com/PaddleCV-FAQ/PaddleDetection-FAQ/blob/main/Lite%E9%83%A8%E7%BD%B2/yolov3_for_raspi.md)                 | - |
+| **智慧城市** | [高尔夫球场遥感监测](https://www.paddlepaddle.org.cn/support/news?action=detail&id=2103)         | - |
+| **智慧城市** | [积雪语义分割](https://paddlex.readthedocs.io/zh_CN/develop/examples/multi-channel_remote_sensing/README.html)               | - |
+| **智慧城市** | [戴口罩的人脸识别](https://aistudio.baidu.com/aistudio/projectdetail/267322?channelType=0&channel=0)           | - |
+| **智慧交通** | [车道线分割和红绿灯安全检测](https://github.com/PaddlePaddle/PaddleDetection/blob/release/2.1/configs/vehicle/README_cn.md) | - |
+| **智慧农林** | [耕地地块识别](https://mp.weixin.qq.com/s/JlDVmYlhN7sF0hpRlncDNw)               |             |
+| **智慧农林** | [AI识虫](https://aistudio.baidu.com/aistudio/projectdetail/439888)                     |   -   |
+| **智慧医疗** | [医学常见中草药分类](https://aistudio.baidu.com/aistudio/projectdetail/1434738?channelType=0&channel=0)         | - |
+| **智慧医疗** | [眼疾识别](https://www.paddlepaddle.org.cn/tutorials/projectdetail/1630501)                   | - |
+| **其他**     | [人摔倒检测](https://aistudio.baidu.com/aistudio/projectdetail/2071768)          |    -   |
+| **其他**     | [足球比赛动作定位](https://github.com/PaddlePaddle/PaddleVideo/tree/application/FootballAction)           | - |
+| **其他**     | [基于强化学习的飞行器仿真](https://github.com/PaddlePaddle/PARL/tree/develop/examples/tutorials/homework/lesson5/ddpg_quadrotor)   | -  |
+| **其他**     | [基于ERNIE-Gram实现语义匹配](https://aistudio.baidu.com/aistudio/projectdetail/2247755)   | -  |
+| **其他**     | [基于PaddleDetection的PCB瑕疵检测](https://aistudio.baidu.com/aistudio/projectdetail/2240725)   |  - |
+| **其他**     | [中文语音识别](https://aistudio.baidu.com/aistudio/projectdetail/2280562)   |  - |
 
+
+[返回快速跳转:arrow_heading_up:](#0) 
 
 # 七、技术交流
 
@@ -341,6 +432,7 @@
 
 本项目欢迎任何贡献和建议，大多数贡献都需要你同意参与者许可协议（CLA），来声明你有权，并实际上授予我们有权使用你的贡献。
 
+
 ### 代码贡献规范
 
 > pip install pre-commit
@@ -349,3 +441,6 @@
 
 添加修改的代码后，对修改的文件进行代码规范，pre-commit 会自动调整代码格式，执行一次即可，后续commit不需要再执行。提交pr流程，详见：[awesome-DeepLearning 提交 pull request 流程](./examples/awesome-DeepLearning_pr_procedure.md)
 
+## 贡献者
+以下是越来越多的awesome-DeepLearning贡献者列表：
+[youngzhou](https://youngzhou1999.github.io/cv/)
